@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": false,
+		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -12,8 +12,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.98",
-	"appid": "",
-	"projectname": "Face-2-Face Translator",
+	"appid": "wx4ab81cf09eebe848",
+	"projectname": "Face-2-Face%20Translator",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
